@@ -2,8 +2,8 @@
 <plugin
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.alexvillaro.plugins.inapppurchase"
-    version="2.0.0">
+    id="com.retoglobal.plugins.inapppurchase"
+    version="1.0.0">
 
     <name>InAppPurchase</name>
 	<description>In app purchase support for iOS</description>
